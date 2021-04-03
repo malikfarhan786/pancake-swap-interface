@@ -1,4 +1,4 @@
-import { MenuEntry, menuStatus } from '@pancakeswap-libs/uikit'
+import { MenuEntry, menuStatus } from 'pushswap-librarytest2'
 
 const config: MenuEntry[] = [
   {
