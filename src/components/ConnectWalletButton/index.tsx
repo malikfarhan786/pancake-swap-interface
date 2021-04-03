@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button, ButtonProps, useWalletModal} from 'pushswap-librarytest'
+import { Button, ButtonProps, useWalletModal} from 'pushswap-librarytest2'
 import useI18n from 'hooks/useI18n'
 import useAuth from 'hooks/useAuth'
 
