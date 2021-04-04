@@ -1,5 +1,5 @@
 // eslint-disable-next-line import/no-unresolved
-import { PancakeTheme } from 'pushswap-librarytest2/dist/theme'
+import { PancakeTheme } from 'pushswap-librarytest3/dist/theme'
 
 declare module 'styled-components' {
   /* eslint-disable @typescript-eslint/no-empty-interface */
