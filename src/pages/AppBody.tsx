@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Card } from '@pushswap-librarytest3'
+import { Card } from 'pushswap-librarytest3'
 
 export const BodyWrapper = styled(Card)`
   position: relative;
