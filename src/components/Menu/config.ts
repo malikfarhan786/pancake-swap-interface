@@ -1,4 +1,4 @@
-import { MenuEntry, menuStatus } from 'pushswap-librarytest2'
+import { MenuEntry, menuStatus } from 'pushswap-librarytest3'
 
 const config: MenuEntry[] = [
   {
